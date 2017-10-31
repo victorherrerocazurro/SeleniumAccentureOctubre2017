@@ -73,3 +73,11 @@ public class PruebaBuscadorGoogleIT {
     }
   }
 }
+
+
+// /html/body/div[@id="mw-navigation"]/div/div[@id="p-navigation"]/div/ul/li
+// div#mw-panel div.portal div.body ul li
+
+
+
+
